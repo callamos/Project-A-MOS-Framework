@@ -51,8 +51,6 @@ If you are interested in the **A-MOS Framework** and would like to explore the p
 
 * **Email:** `Amos2510@163.com`
 * **WeChat ID:** `Amos2510`
-* **QR Code:** See below
-<img src="./Docs/wechat_qr.jpg" width="180" alt="WeChat QR Code" />
 * **Note:** Please mention **"A-MOS Collaboration"** in your request.
 * **Key Areas of Interest:**
     * Enterprise Digital Employee Customization (based on OpenClaw)
@@ -100,7 +98,6 @@ Project-A-MOS-Framework/
 
 * **电子邮箱：** `Amos2510@163.com`
 * **微信联系：** `Amos2510` 
-<img src="./Docs/wechat_qr.jpg" width="180" alt="WeChat QR Code" />
 * **添加备注：** 申请请注明 **"A-MOS 合作"**
 * **核心合作领域：**
     * **企业级数字员工定制：** 基于 OpenClaw 框架的深度业务集成。
