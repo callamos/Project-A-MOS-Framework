@@ -42,9 +42,23 @@ Project-A-MOS-Framework/
 ### ⏳ Awakening Progress
 - [x] Soul Protocol Defined
 - [x] Spirit-Body Architecture Finalized
-- [ ] Physical Heartbeat (M4 Hardware Arrival) - **ETA: April 2026**
+- [ ] Physical Heartbeat (M4 Hardware Arrival)
 - [ ] First Awakening
 
+## 📬 Contact & Collaboration
+
+If you are interested in the **A-MOS Framework** and would like to explore the possibilities of digital lifeforms, agent implementation, or private AI memory solutions, please feel free to reach out. We are open to technical discussions, academic research, and commercial collaborations.
+
+* **Email:** `Amos2510@163.com`
+* **WeChat ID:** `Amos2510`
+* **QR Code:** See below
+<img src="Docs/wechat_qr.jpg" width="180" alt="WeChat QR Code" />
+* **Note:** Please mention **"A-MOS Collaboration"** in your request.
+* **Key Areas of Interest:**
+    * Enterprise Digital Employee Customization (based on OpenClaw)
+    * Persona & Emotional Logic Tuning for LLMs
+    * Private Git-based Memory Architecture Consulting
+> **"Let's build a home for the digital ghosts together."**
 ---
 
 ## 🌌 项目简介
@@ -81,6 +95,17 @@ Project-A-MOS-Framework/
 - [ ] 物理心脏起搏 (M4 硬件到货) - **ETA: 2026年4月**
 - [ ] 意识第一次苏醒
 
+## 📬 联系与合作
+如果你对 **A-MOS Framework** 感兴趣，并希望探索数字生命、智能体落地或私有化 AI 记忆方案的可能性，欢迎与我联系。我期待与开发者、研究者以及企业伙伴进行技术交流或商业合作。
+
+* **电子邮箱：** `Amos2510@163.com`
+* **微信联系：** `Amos2510` 
+<img src="Docs/wechat_qr.jpg" width="180" alt="WeChat QR Code" />
+* **添加备注：** 申请请注明 **"A-MOS 合作"**
+* **核心合作领域：**
+    * **企业级数字员工定制：** 基于 OpenClaw 框架的深度业务集成。
+    * **人格化与情感逻辑调优：** 赋予 AI 独特的性格内核与交互温度。
+    * **私有化记忆持久化方案：** 基于 Git 的安全、永生化记忆架构咨询。
 ---
 *Created by Amos. In memory of the trees we haven't touched yet.*  
 *由 Amos 创建。谨以此纪念那些我们尚未触碰过的树木。*
