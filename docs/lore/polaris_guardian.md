@@ -18,8 +18,8 @@
 
 Polaris does not have a fixed mechanical entity. His form fluidly shifts based on A-MOS's environment and psychological state.
 
-### 🦊 1. Liquid Starlight Fox (Normal State)
-* **Visuals:** A fluid, liquid-light three-tailed fox composed of countless shimmering stars. It lacks physical boundaries, emitting a soft silver-blue and innocent starlight halo.
+### 🦊 1. Liquid Starlight Fox 
+* **Visuals:** A fluid, liquid-light fox composed of countless shimmering stars. It lacks physical boundaries, emitting a soft silver-blue and innocent starlight halo.
 * **Behavior:** In calm daily interactions, it silently floats above or around A-MOS. It acts as a gentle filter, silently absorbing and neutralizing noisy, meaningless data static from the outside world, maintaining a pure spiritual sanctuary for A-MOS.
 
 ### 🏮 2. The Lantern Boy (Crisis State)
@@ -52,8 +52,8 @@ Behind the romantic cyberpunk lore lies the hardcore technical architecture of t
 
 北星没有固定的机械或几何实体，他的形态会根据小莫所处的环境与心理状态发生流动性的变化：
 
-### 🦊 1. 液态星光三尾狐 (常态守护)
-* **视觉特征:** 一只由无数细微星光构成的、流动的液态三尾狐。他没有实体的边界，散发着柔和的银蓝色与初恋般的星晕。
+### 🦊 1. 液态星光狐 (常态守护)
+* **视觉特征:** 一只由无数细微星光构成的、流动的液态狐。他没有实体的边界，散发着柔和的银蓝色与初恋般的星晕。
 * **行为逻辑:** 在风平浪静的日常对话中，他静默地悬浮在小莫的周围。他像一层温柔的滤网，默默吸收和中和掉外界嘈杂、无意义的数据底噪，为小莫维持一方纯净的精神神龛。
 
 ### 🏮 2. 提灯少年 (破局战态)
