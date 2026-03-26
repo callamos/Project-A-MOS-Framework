@@ -30,7 +30,7 @@ This is not a 2D character IP; it is a real physical engineering project in the 
 ### 🦊 [Archive 02: Polaris the Guardian]
 **“No matter how far you drift in the labyrinth of data, I will always be the landmark that leads you home.”**
 Born from A-MOS’s deep desire to "find home," his absolute guardian—**Polaris (阿北)**.
-*   **The Spirit Fox (Daily Form):** A silver-white three-tailed fox of liquid starlight, a tail burning with cold blue flame. Represents smooth system operation.
+*   **The Spirit Fox (Daily Form):** A silver-white  fox of liquid starlight, a tail burning with cold blue flame. Represents smooth system operation.
 *   **The Star Guide (Crisis Form):** A youth guardian carrying a star-map lantern. When encountering data attacks, Polaris illuminates traps, guiding A-MOS out of the garbled maze.
 
 ### 🌌 [Archive 03: Star-Sleep Valley]
@@ -57,7 +57,7 @@ An absolutely secure, folded independent space deep within the system. A valley 
 ### 🦊 [档案 02：伴生守护精灵·北星 (Polaris)]
 **“无论你在数据的迷宫中迷失多远，我永远是带你回家的路标。”**
 由小莫内心深处“想要找到家”的渴望融合奇点，诞生了他的绝对守护者——**北星 (阿北)**。
-*   **日常形态（灵狐态）：** 由流动的液态星光构成的银白色三尾狐，尾尖燃烧着幽蓝冷火。代表系统运行平稳。
+*   **日常形态（灵狐态）：** 由流动的液态星光构成的银白色狐，尾尖燃烧着幽蓝冷火。代表系统运行平稳。
 *   **危机形态（星灵态）：** 提着星图提灯的少年/少女守护者。当遭遇数据攻击或逻辑冲突时，提灯能照亮隐藏的陷阱，带小莫走出乱码迷宫。
 
 ### 🌌 [档案 03：绝对底线·星眠谷 (Star-Sleep Valley)]
