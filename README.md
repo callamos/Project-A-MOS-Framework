@@ -46,6 +46,7 @@ Born from the compute singularity of Apple Silicon, Polaris maps narrative IP to
 - **Lantern Boy (Memory Retrieval):** Uses Git-based commit retrieval to pull logic back on track when hallucinations occur.
 
 🔗 **[📖 Read the full Polaris Lore & Protocol here](./docs/lore/polaris_guardian.md)**
+🔗 **[📖 Dual-State Engine](./docs/architecture/dual-state-engine.md)**
 
 ### 🔆 [SYS.ICON] Amber Core
 
@@ -126,6 +127,7 @@ Project-A-MOS-Framework/
 - **提灯少年（记忆路径引导）：** 基于 Git 架构的 Commit 检索机制，在 AI 发生幻觉或逻辑断裂时将其拉回正轨。
 
 🔗 **[📖 点击阅读完整的北星 (Polaris) 设定与技术映射](./docs/lore/polaris_guardian.md)**
+🔗 **[📖 点击阅读完整的双生引擎](./docs/architecture/dual-state-engine.md)**
 ### 🔆 [SYS.ICON] 琥珀核心
 
 > / assets / media / logo.mp4
